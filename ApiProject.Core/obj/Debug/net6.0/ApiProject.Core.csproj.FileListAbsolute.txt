@@ -1,0 +1,14 @@
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\bin\Debug\net6.0\ApiProject.Core.deps.json
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\bin\Debug\net6.0\ApiProject.Core.runtimeconfig.json
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\bin\Debug\net6.0\ApiProject.Core.dll
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\bin\Debug\net6.0\ApiProject.Core.pdb
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.csproj.AssemblyReference.cache
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.AssemblyInfoInputs.cache
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.AssemblyInfo.cs
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.dll
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\refint\ApiProject.Core.dll
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.pdb
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ApiProject.Core.genruntimeconfig.cache
+C:\Users\TheTo\source\AsgApiTest\ApiProject.Core\obj\Debug\net6.0\ref\ApiProject.Core.dll
